@@ -6,8 +6,8 @@ Used as a private space to organize my ADML documents.
 Structure
 
 - docs 
-  - **Files Managed in Obsidian**
-- exercices
+  - **Private notes managed in Obsidian**
+- exercises
   - SWXX 
 - other
 
