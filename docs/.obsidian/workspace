@@ -13,17 +13,6 @@
             "mode": "source"
           }
         }
-      },
-      {
-        "id": "532fdad736b90e4a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "SW02/History ML.md",
-            "mode": "source"
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -100,7 +89,9 @@
   "active": "ef6f15aa722139ad",
   "lastOpenFiles": [
     "SW02/History ML.md",
+    "Python/Quick help.md",
     "SW01/Data Quality Assessment.md",
+    "Python/Untitled.md",
     "SW02/Untitled.md",
     "SW01/SW01.md",
     "Untitled.md"
