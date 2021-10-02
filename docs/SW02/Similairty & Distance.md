@@ -8,3 +8,5 @@ For Similarity = Cosine SImilarity >  Distance
 # Cosine Similarity
 
 Vektor between 2 vectors. The smaller the angle the more correlation (cos value closer to 1)
+
+TODO: 

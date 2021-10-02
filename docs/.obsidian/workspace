@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SW02/Similairty & Distance.md",
+            "file": "SW01/Data Quality Assessment.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Bayesian-Networks",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SW02/Similairty & Distance.md",
+                "file": "SW01/Data Quality Assessment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,10 +88,11 @@
   },
   "active": "ef6f15aa722139ad",
   "lastOpenFiles": [
-    "SW02/Untitled.md",
-    "SW02/History ML.md",
-    "Python/Quick help.md",
     "SW01/Data Quality Assessment.md",
+    "Python/Quick help.md",
+    "SW02/Similairty & Distance.md",
+    "SW02/History ML.md",
+    "SW02/Untitled.md",
     "Python/Untitled.md",
     "SW01/SW01.md",
     "Untitled.md"
