@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SW01/Data Quality Assessment.md",
+            "file": "SW02/Similairty & Distance.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SW01/Data Quality Assessment.md",
+                "file": "SW02/Similairty & Distance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,10 +88,11 @@
   },
   "active": "ef6f15aa722139ad",
   "lastOpenFiles": [
-    "SW01/Data Quality Assessment.md",
-    "Python/Quick help.md",
     "SW02/Similairty & Distance.md",
+    "Python/Quick help.md",
+    "SW01/Data Quality Assessment.md",
     "SW02/History ML.md",
+    "SW01/Quick help.md",
     "SW02/Untitled.md",
     "Python/Untitled.md",
     "SW01/SW01.md",
