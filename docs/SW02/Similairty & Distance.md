@@ -1,4 +1,4 @@
-# Distance
+# #Distance & #Similarity
 
 The smaller the distance => more similar but only for values that don't correlate.
 
