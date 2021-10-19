@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "one",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,6 +89,7 @@
   "active": "61d7bc1c4266e282",
   "lastOpenFiles": [
     "SW03/Supervised Learning Fundamentals.md",
+    "Pasted image 20211008134411.png",
     "SW02/Similairty & Distance.md",
     "Python/Quick help.md",
     "SW01/Data Quality Assessment.md",
@@ -96,7 +97,6 @@
     "SW02/History ML.md",
     "SW01/Quick help.md",
     "SW02/Untitled.md",
-    "Python/Untitled.md",
-    "SW01/SW01.md"
+    "Python/Untitled.md"
   ]
 }
