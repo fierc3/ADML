@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SW03/Supervised Learning Fundamentals.md",
+            "file": "SW02/Similairty & Distance.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "one",
+                "query": "tag:#outliers",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SW03/Supervised Learning Fundamentals.md",
+                "file": "SW02/Similairty & Distance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "61d7bc1c4266e282",
   "lastOpenFiles": [
-    "SW03/Supervised Learning Fundamentals.md",
-    "Pasted image 20211008134411.png",
     "SW02/Similairty & Distance.md",
-    "Python/Quick help.md",
-    "SW01/Data Quality Assessment.md",
-    "Untitled.md",
     "SW02/History ML.md",
+    "SW01/Data Quality Assessment.md",
+    "Python/Quick help.md",
+    "SW03/Supervised Learning Fundamentals.md",
+    "Resources/Pasted image 20211008134411.png",
+    "Pasted image 20211008134411.png",
+    "Untitled.md",
     "SW01/Quick help.md",
-    "SW02/Untitled.md",
-    "Python/Untitled.md"
+    "SW02/Untitled.md"
   ]
 }
