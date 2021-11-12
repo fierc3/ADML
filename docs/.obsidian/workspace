@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SW02/Similairty & Distance.md",
+            "file": "LinearAlgebra/Linear Systems.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SW02/Similairty & Distance.md",
+                "file": "LinearAlgebra/Linear Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "61d7bc1c4266e282",
   "lastOpenFiles": [
+    "LinearAlgebra/Linear Systems.md",
+    "Untitled.md",
     "SW02/Similairty & Distance.md",
     "SW02/History ML.md",
     "SW01/Data Quality Assessment.md",
@@ -95,8 +97,6 @@
     "SW03/Supervised Learning Fundamentals.md",
     "Resources/Pasted image 20211008134411.png",
     "Pasted image 20211008134411.png",
-    "Untitled.md",
-    "SW01/Quick help.md",
-    "SW02/Untitled.md"
+    "SW01/Quick help.md"
   ]
 }
