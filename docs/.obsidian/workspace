@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "LinearAlgebra/Linear Systems.md",
+            "file": "SW02/Similairty & Distance.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#outliers",
+                "query": "jacc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LinearAlgebra/Linear Systems.md",
+                "file": "SW02/Similairty & Distance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,9 +89,9 @@
   },
   "active": "61d7bc1c4266e282",
   "lastOpenFiles": [
+    "SW02/Similairty & Distance.md",
     "LinearAlgebra/Linear Systems.md",
     "Untitled.md",
-    "SW02/Similairty & Distance.md",
     "SW02/History ML.md",
     "SW01/Data Quality Assessment.md",
     "Python/Quick help.md",
