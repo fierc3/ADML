@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "61d7bc1c4266e282",
+        "id": "ec282521fac3acd1",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SW02/Similairty & Distance.md",
-            "mode": "source"
+            "file": "MEP/4. Feature Engineering.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "jacc",
+                "query": "Bag-",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SW02/Similairty & Distance.md",
+                "file": "MEP/4. Feature Engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "61d7bc1c4266e282",
+  "active": "ec282521fac3acd1",
   "lastOpenFiles": [
-    "SW02/Similairty & Distance.md",
-    "LinearAlgebra/Linear Systems.md",
-    "Untitled.md",
-    "SW02/History ML.md",
-    "SW01/Data Quality Assessment.md",
-    "Python/Quick help.md",
-    "SW03/Supervised Learning Fundamentals.md",
-    "Resources/Pasted image 20211008134411.png",
-    "Pasted image 20211008134411.png",
-    "SW01/Quick help.md"
+    "MEP/4. Feature Engineering.md",
+    "MEP/1. Data Classification.md",
+    "MEP/13. Back Propagation.md",
+    "MEP/6. Gradient Descent.md",
+    "MEP/11. Model Diagnostics.md",
+    "MEP/7. Linear Regression.md",
+    "MEP/21. Principal Component Analysis.md",
+    "MEP/5. Regression (Supervised Learning).md",
+    "MEP/10. Tree Model.md",
+    "MEP/2. History.md"
   ]
 }
